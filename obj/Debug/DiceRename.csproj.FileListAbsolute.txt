@@ -1,0 +1,9 @@
+F:\C#Project\DiceRename\DiceRename\bin\Debug\DiceRename.exe.config
+F:\C#Project\DiceRename\DiceRename\bin\Debug\DiceRename.exe
+F:\C#Project\DiceRename\DiceRename\bin\Debug\DiceRename.pdb
+F:\C#Project\DiceRename\DiceRename\obj\Debug\DiceRename.csprojResolveAssemblyReference.cache
+F:\C#Project\DiceRename\DiceRename\obj\Debug\DiceRename.Form1.resources
+F:\C#Project\DiceRename\DiceRename\obj\Debug\DiceRename.Properties.Resources.resources
+F:\C#Project\DiceRename\DiceRename\obj\Debug\DiceRename.csproj.GenerateResource.Cache
+F:\C#Project\DiceRename\DiceRename\obj\Debug\DiceRename.exe
+F:\C#Project\DiceRename\DiceRename\obj\Debug\DiceRename.pdb
